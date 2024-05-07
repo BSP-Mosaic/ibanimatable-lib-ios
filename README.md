@@ -41,7 +41,7 @@ Copy and paste `IBAnimatable` folder in your Xcode project.
 To integrate using Apple's Swift package manager, add the following as a dependency to your `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/IBAnimatable/IBAnimatable.git", .upToNextMajor(from: "6.1.0"))
+.package(url: "https://github.com/IBAnimatable/IBAnimatable.git", .upToNextMajor(from: "6.1.1"))
 ```
 
 ### [CocoaPods](https://cocoapods.org)
@@ -62,7 +62,7 @@ Add the following entry in your Cartfile:
 Add the following entry in your Package.swift:
 
 ```swift
-.package(url: "https://github.com/IBAnimatable/IBAnimatable.git", .upToNextMajor(from: "6.1.0")),
+.package(url: "https://github.com/IBAnimatable/IBAnimatable.git", .upToNextMajor(from: "6.1.1")),
 ```
 
 Next, add `IBAnimatable` to your App targets dependencies like so:

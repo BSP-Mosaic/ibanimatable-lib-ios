@@ -18,6 +18,7 @@ N/A
 
 N/A
 
+### [6.1.1](https://github.com/BSP-Mosaic/ibanimatable-lib-ios/releases/tag/6.1.1)
 ### [6.1.0](https://github.com/IBAnimatable/IBAnimatable/releases/tag/6.1.0)
 
 #### API breaking changes
